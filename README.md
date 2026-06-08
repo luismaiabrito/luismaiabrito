@@ -1,7 +1,7 @@
 ## 👨🏻‍💻 Luís Maia Brito
 
 
-Me chamo Luís Ricardo Maia Brito, tenho 17 anos e sou natural da Bahia. Estou cursando o ensino médio integrado ao curso técnico de informática no IFBA.
+
     </a> 
     <a href="https://github.com/luismaiabrito?tab=repositories&sort=stargazers">
         <img 
